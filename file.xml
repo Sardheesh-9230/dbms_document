@@ -1,0 +1,24 @@
+<xml>
+<user>
+<userinfo>
+<userId>par001</user_id>
+<name>sardheesh</name>
+<password>sa@123456</password>
+<college>mkce</college/>
+<yearofstudy>first year</yearofstudy>
+
+<userId>par002</user_id>
+<name>khan</name>
+<password>ma@123456</password>
+<college>krce</college/>
+<yearofstudy>first year</yearofstudy>
+
+<userId>par003</user_id>
+<name>ram</name>
+<password>ra@123456</password>
+<college>krct</college/>
+<yearofstudy>first year</yearofstudy>
+</userinfo>
+</user>
+</xml>
+
